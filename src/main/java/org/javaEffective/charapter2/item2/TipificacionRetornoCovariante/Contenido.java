@@ -1,4 +1,4 @@
-package org.javaEffective.charapter2.TipificacionRetornoCovariante;
+package org.javaEffective.charapter2.item2.TipificacionRetornoCovariante;
 
 public abstract class Contenido {
     private String titulo;

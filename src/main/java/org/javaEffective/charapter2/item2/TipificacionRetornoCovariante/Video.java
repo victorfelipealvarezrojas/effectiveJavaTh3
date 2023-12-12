@@ -1,4 +1,4 @@
-package org.javaEffective.charapter2.TipificacionRetornoCovariante;
+package org.javaEffective.charapter2.item2.TipificacionRetornoCovariante;
 
 public class Video extends Contenido {
     private int duracion; // Duración en segundos

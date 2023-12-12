@@ -1,4 +1,4 @@
-package org.javaEffective.charapter2.singleton;
+package org.javaEffective.charapter2.item2.singleton;
 
 // Singleton con fábrica estática
 public class ElvisV2 {

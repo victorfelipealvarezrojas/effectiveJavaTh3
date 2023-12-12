@@ -1,4 +1,4 @@
-package org.javaEffective.charapter2.singleton;
+package org.javaEffective.charapter2.item2.singleton;
 
 // Singleton Implementado como Enum
 public enum ElvisV4 {

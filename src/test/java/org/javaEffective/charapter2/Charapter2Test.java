@@ -1,13 +1,13 @@
 package org.javaEffective.charapter2;
 
 import jdk.jfr.Description;
-import org.javaEffective.charapter2.builder.Calzone;
-import org.javaEffective.charapter2.builder.NutritionFacts;
-import org.javaEffective.charapter2.builder.NyPizza;
+import org.javaEffective.charapter2.item2.builder.Calzone;
+import org.javaEffective.charapter2.item2.builder.NutritionFacts;
+import org.javaEffective.charapter2.item2.builder.NyPizza;
 import org.junit.jupiter.api.Test;
 
-import static org.javaEffective.charapter2.builder.NyPizza.Size.*;
-import static org.javaEffective.charapter2.builder.PizzaAbstract.Topping.*;
+import static org.javaEffective.charapter2.item2.builder.NyPizza.Size.*;
+import static org.javaEffective.charapter2.item2.builder.PizzaAbstract.Topping.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class Charapter2Test {

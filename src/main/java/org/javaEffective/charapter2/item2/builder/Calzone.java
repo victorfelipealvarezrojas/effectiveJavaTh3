@@ -1,4 +1,4 @@
-package org.javaEffective.charapter2.builder;
+package org.javaEffective.charapter2.item2.builder;
 
 public class Calzone extends PizzaAbstract {
     private final boolean sauceInside;

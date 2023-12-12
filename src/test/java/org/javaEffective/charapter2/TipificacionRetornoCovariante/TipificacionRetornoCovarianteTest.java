@@ -1,5 +1,7 @@
 package org.javaEffective.charapter2.TipificacionRetornoCovariante;
 
+import org.javaEffective.charapter2.item2.TipificacionRetornoCovariante.Articulo;
+import org.javaEffective.charapter2.item2.TipificacionRetornoCovariante.Video;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
