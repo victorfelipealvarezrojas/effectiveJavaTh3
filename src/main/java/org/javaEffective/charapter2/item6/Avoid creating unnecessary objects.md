@@ -1,0 +1,1 @@
+# Avoid creating unnecessary objects
