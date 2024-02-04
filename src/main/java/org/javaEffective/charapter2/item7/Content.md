@@ -66,7 +66,3 @@ Más comúnmente, la vida útil útil de una entrada de caché está menos defin
 Una tercera fuente común de fugas de memoria son los listeners y otros callbacks. Si implementas una API donde los clientes registran callbacks pero no los cancelan explícitamente, se acumularán a menos que tomes alguna medida. Una forma de asegurarte de que los callbacks se recojan de manera pronta es almacenar solo referencias débiles a ellos, por ejemplo, almacenándolos solo como claves en un WeakHashMap.
 
 Dado que las fugas de memoria generalmente no se manifiestan como fallas obvias, pueden permanecer presentes en un sistema durante años. Típicamente, se descubren solo como resultado de una inspección cuidadosa del código o con la ayuda de una herramienta de depuración conocida como un perfilador de montón. Por lo tanto, es muy deseable aprender a anticipar problemas como este antes de que ocurran y evitar que sucedan.
-
-
-
-
